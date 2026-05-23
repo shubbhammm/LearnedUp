@@ -1,0 +1,37 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "bcrypt": "^6.0.0",
+    "cookie": "^1.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^7.1.1",
+    "mongoose": "^8.18.2",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.10",
+    "youtube-transcript": "^1.2.1",
+    "youtube-transcript-api": "^3.0.6",
+    "youtube-transcript-plus": "^1.1.1",
+    "ytdl-core": "^4.11.5",
+    "zod": "^4.1.11"
+  },
+  "devDependencies": {
+    "@jest/globals": "^30.3.0",
+    "jest": "^30.3.0"
+  }
+}
