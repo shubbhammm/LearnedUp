@@ -1,7 +1,5 @@
 # LearnedUp
 
-# LearnedUo
-
 LearnedUo is a full-stack learning platform with a Node.js/Express backend and a Vite + React frontend.
 
 ## Project Structure
